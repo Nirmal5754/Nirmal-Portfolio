@@ -91,7 +91,7 @@ export default function AboutMe() {
         </div>
         <div className="col-span-2" style={customFontStyle}>
           <h2 className="text-6xl py-5 font-bold text-teal-500 md-4">About me</h2>
-          <p className="text-4xl py-2 text-base lg:text-lg">
+          <p className="text-4xl py-2 text-yellow-200 lg:text-lg">
             Frontend Developer with strong foundations in C++ (DSA) and hands-on experience building scalable,
             responsive applications using React.js and Redux Toolkit. Skilled in MySQL, Firebase, and writing optimized,
             maintainable code with focus on performance and clean architecture.

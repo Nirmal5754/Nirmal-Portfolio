@@ -24,7 +24,7 @@ export default function AboutTerminal() {
       <div className="mt-8">
         <TerminalWindow title="AboutMe.txt" bodyClassName="space-y-4">
           <div className="text-emerald-400/80 text-sm">{'> cat about.txt'}</div>
-          <p className="text-emerald-400/70 text-sm leading-7">
+          <p className="text-red-100/70 text-sm leading-7">
             Frontend Developer with strong foundations in C++ (DSA) and hands-on experience building scalable,
             responsive applications using React.js and Redux Toolkit. Skilled in MySQL, Firebase, and writing optimized,
             maintainable code with focus on performance and clean architecture.

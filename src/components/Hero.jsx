@@ -9,12 +9,12 @@ export default function Hero() {
         <br />
         Potential with
         <br />
-        <span className="text-emerald-400">Modern Web</span>
+        <span className="text-cyan-400">Modern Web</span>
         <br />
         Solutions
       </h1>
 
-      <p className="mt-8 max-w-xl text-sm sm:text-base leading-7 text-white/65">
+      <p className="mt-8 max-w-xl text-sm sm:text-base  leading-7 text-yellow-200">
         I&apos;m Nirmal Patil Frontend Developer with strong foundations in C++ (DSA) and hands-on experience building scalable, responsive applications using React.js and Redux Toolkit. Skilled in MySQL, Firebase, and writing optimized, maintainable code with focus on performance and clean architecture.
       </p>
 
@@ -51,7 +51,7 @@ export default function Hero() {
           href="/Resume.pdf"
           target="_blank"
           rel="noreferrer"
-          className="inline-flex items-center justify-center rounded-full border border-emerald-500/60 px-6 py-2 text-sm text-emerald-300 hover:bg-emerald-500/10 transition-colors"
+          className="inline-flex items-center justify-center rounded-full border border-pink-500/60 px-6 py-2 text-sm text-pink-400 hover:bg-emerald-700/10 transition-colors"
         >
           $ Download Resume
         </a>
