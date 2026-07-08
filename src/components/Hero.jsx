@@ -23,13 +23,13 @@ export default function Hero() {
           <a href="" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
             <AiFillTwitterCircle />
           </a>
-          <a href="" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+          <a href="https://github.com/Nirmal5754" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
             <AiFillGithub />
           </a>
-          <a href="" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+          <a href="https://www.instagram.com/raj_.5754/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
             <AiFillInstagram />
           </a>
-          <a href="" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/nirmal5754/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
             <AiFillLinkedin />
           </a>
         </IconContext.Provider>

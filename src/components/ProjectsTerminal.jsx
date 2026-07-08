@@ -73,6 +73,7 @@ export default function ProjectsTerminal() {
               'Created buyer leaderboards based on highest bids with automated auction result handling.',
               'Implemented CRUD operations for crop listings with validation and LocalStorage persistence.',
             ]}
+            
             href="https://agri-trade-nine.vercel.app/"
           />
           <ProjectCard
