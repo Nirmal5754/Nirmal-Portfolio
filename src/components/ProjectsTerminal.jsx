@@ -68,17 +68,17 @@ export default function ProjectsTerminal() {
          
           <div className= ' rounded-xl  bg-gray-900 justify-center'>
              <img src={prodisplay} className='w-100 h-56 rounded-tl-xl rounded-tr-xl ' alt="projectimg"/>
-<h1 className='font-semibold text-xl pt-4 pl-4 text-yellow-400 '>AgriTrade — Farmers Online Marketplace</h1>
-<p className='text-sm font-semibold pt-2 pl-4 text-pink-400'>Real-time crop auctions with timers, bid leaderboard, and listings management.</p>
+<h1  className='font-semibold text-xl pt-4 pl-4 text-yellow-400 underline'><a href="https://agri-trade-nine.vercel.app"> AgriTrade — Farmers Online Marketplace</a></h1>
+<p className='text-md font-semibold pt-2 pl-4 text-pink-400'>Real-time crop auctions with timers, bid leaderboard, and listings management.</p>
   
     <ul className='text-center items-center justify-center m-4'>
-<li className='flex gap-3'><div   className='bg-violet-800 rounded-full px-2 py-1 text-emerald-500 font-bold'>React.js</div>
-  <div  className='text-emerald-500 bg-violet-800 rounded-full px-2 py-1 font-bold'>HTML</div><div  className='font-bold bg-violet-800 text-emerald-500 rounded-full px-2 py-1'>Tailwind CSS</div>
+<li className='flex gap-3'><div   className='bg-violet-900 rounded-full px-2 py-1 text-emerald-400 font-bold'>React.js</div>
+  <div  className='text-emerald-400 bg-violet-900 rounded-full px-2 py-1 font-bold'>HTML</div><div  className='font-bold bg-violet-900 text-emerald-400 rounded-full px-2 py-1'>Tailwind CSS</div>
   </li>
 <li className='flex gap-3  mt-3'> 
-  <div   className='bg-violet-800 text-emerald-500 rounded-full px-2 py-1 font-bold'>Bootstrap</div>
-<div   className='bg-violet-800 rounded-full px-2 text-emerald-500 py-1 font-bold'>JavaScript</div>
-  <div   className='bg-violet-800 rounded-full px-2 text-emerald-500 py-1 font-bold'>Firebase</div></li>
+  <div   className='bg-violet-900 text-emerald-400 rounded-full px-2 py-1 font-bold'>Bootstrap</div>
+<div   className='bg-violet-900 rounded-full px-2 text-emerald-400 py-1 font-bold'>JavaScript</div>
+  <div   className='bg-violet-900 rounded-full px-2 text-emerald-400 py-1 font-bold'>Firebase</div></li>
 
     </ul>
   
@@ -87,17 +87,17 @@ export default function ProjectsTerminal() {
 </div>
    <div className= ' rounded-xl  bg-gray-900 justify-center'>
              <img src={prodisplay2} className='w-100 h-56 rounded-tl-xl rounded-tr-xl ' alt="projectimg"/>
-<h1 className='font-semibold text-xl pt-4 pl-4 text-yellow-400 '>E-Shopping-Zone — E-Commerce Fashion App</h1>
-<p className='text-sm font-semibold pt-2 pl-4 text-pink-400'>Responsive shopping app with authentication and checkout workflow.</p>
-  
+<h1 className='font-semibold text-xl pt-4 pl-4 text-yellow-400 underline '><a  href="https://e-fashion-zone.vercel.app"> E-Shopping-Zone — E-Commerce Fashion App</a></h1>
+<p className='text-md font-semibold pt-2 pl-4 text-pink-400'>Responsive shopping app with authentication and checkout workflow.</p>
+
     <ul className='text-center items-center justify-center m-4'>
-<li className='flex gap-3'><div   className='bg-violet-800 rounded-full px-2 py-1 text-emerald-500 font-extrabold'>React.js</div>
-  <div  className='text-emerald-500 bg-violet-800 rounded-full px-2 py-1 font-bold'>Redux.js</div><div  className='font-bold bg-violet-800 text-emerald-500 rounded-full px-2 py-1'>Tailwind CSS</div>
+<li className='flex gap-3'><div   className='bg-violet-900 rounded-full px-2 py-1 text-emerald-400 font-extrabold'>React.js</div>
+  <div  className='text-emerald-400 bg-violet-900 rounded-full px-2 py-1 font-bold'>Redux.js</div><div  className='font-bold bg-violet-900 text-emerald-400 rounded-full px-2 py-1'>Tailwind CSS</div>
   </li>
 <li className='flex gap-3  mt-3'> 
-  <div   className='bg-violet-800 text-emerald-500 rounded-full px-2 py-1 font-bold'>Firebase</div>
-<div   className='bg-violet-800 rounded-full px-2 text-emerald-500 py-1 font-bold'>Tailwind Css</div>
-  <div   className='bg-violet-800 rounded-full px-2 text-emerald-500 py-1 font-bold'>JavaScript</div></li>
+  <div   className='bg-violet-900 text-emerald-400 rounded-full px-2 py-1 font-bold '>Firebase</div>
+<div   className='bg-violet-900 rounded-full px-2 text-emerald-400 py-1 font-bold'>Tailwind Css</div>
+  <div   className='bg-violet-900 rounded-full px-2 text-emerald-400 py-1 font-bold'>JavaScript</div></li>
 
     </ul>
   

@@ -47,7 +47,7 @@ export default function ContactTerminal() {
               <button
                 type="submit"
                 disabled={state.submitting}
-                className="w-full rounded-md bg-pink-400 py-3 text-sm font-semibold text-black shadow-[0_0_26px_rgba(16,185,129,0.25)] hover:bg-emerald-400 transition-colors disabled:opacity-60"
+                className="w-full rounded-md bg-sky-400 py-3 text-sm font-semibold text-black shadow-[0_0_26px_rgba(16,185,129,0.25)] hover:bg-emerald-400 transition-colors disabled:opacity-60"
               >
                 Send Message
               </button>

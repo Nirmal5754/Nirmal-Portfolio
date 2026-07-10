@@ -13,7 +13,7 @@ export default function TerminalChat() {
           </div>
           <button
             type="button"
-            className="rounded-md bg-emerald-500 px-4 py-2 text-xs font-semibold text-black shadow-[0_0_18px_rgba(16,185,129,0.2)]"
+            className="rounded-md bg-sky-400 px-4 py-2 text-xs font-semibold text-black shadow-[0_0_18px_rgba(16,185,129,0.2)]"
             disabled
             aria-disabled="true"
           >
@@ -22,7 +22,7 @@ export default function TerminalChat() {
         </div>
       }
     >
-      <p className="text-emerald-400/70 text-xs sm:text-sm leading-6">
+      <p className="text-sky-400 text-xs sm:text-sm leading-6">
         {'> Hi! I\u2019m Nirmal\u2019s AI assistant. Tell me'}
         <br />
         about your project idea and I&apos;ll let you
