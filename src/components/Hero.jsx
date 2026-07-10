@@ -1,6 +1,6 @@
 import { IconContext } from 'react-icons'
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillTwitterCircle } from 'react-icons/ai'
-
+import SkillsStrip from './anistrip'
 export default function Hero() {
   return (
     <section className="pt-10 pb-16 font-mono">
@@ -34,8 +34,8 @@ export default function Hero() {
           </a>
         </IconContext.Provider>
       </div>
-
-      <div className="mt-14 text-emerald-400/80 text-xs sm:text-sm flex flex-wrap justify-center gap-x-6 gap-y-2">
+<SkillsStrip className='mt-4'/>
+      {/* <div className="mt-14 text-emerald-400/80 text-xs sm:text-sm flex flex-wrap justify-center gap-x-6 gap-y-2">
         <span>React</span>
         <span>Redux.js</span>
         <span>JavaScript</span>
@@ -44,7 +44,7 @@ export default function Hero() {
         <span>MySQL</span>
         <span>BootStrap</span>
         <span>TailwindCSS</span>      
-      </div>
+      </div> */}
 
       <div className="mt-6 flex justify-center">
         <a

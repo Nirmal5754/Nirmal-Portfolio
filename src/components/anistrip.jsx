@@ -1,20 +1,23 @@
   
   import React from 'react'
-  
- import './anistrip.css'
-  
+  import './anistrip.css'
+ import html2 from '../assets/html5.svg';
+  import css2 from '../assets/css.svg';
+import js from  '../assets/javascript.svg';
+import bootstrap from  '../assets/bootstrap.svg';
+import tailwind from  '../assets/tailwindcss.svg';
+import react2 from  '../assets/react.svg';
+import redux from  '../assets/redux.svg';
+import cpp from  '../assets/cplusplus.svg';
+import java from '../assets/java.svg';
+import fire from '../assets/firebase.svg';
+import mysql from '../assets/mysql.svg';
+
+
+
   const icons = [
-  "../assets/html2.jpg",
-  "../assets/css2.jpg",
-  "../assets/js.jpg",
-  "../assets/bootstrap.jpg",
-  "../assets/tailwind.jpg",
-  "../assets/react.svg",
-  "../assets/redux.jpg",
-  "../assets/c++.jpg",
-  "../assets/java.jpg",
-  "../assets/fire.webp",
- "../assets/mysql.jpg"
+ html2,
+ css2 , js , bootstrap , tailwind , react2 , redux , cpp  ,java, fire , mysql
 ];
 
 export default function SkillsStrip() {
@@ -26,11 +29,13 @@ export default function SkillsStrip() {
             key={index}
             className="mx-8 flex items-center justify-center"
           >
-            <img
-              src={icon}
-              alt=""
-              className="w-14 h-14 object-contain grayscale hover:grayscale-0 hover:scale-110 transition-all duration-300"
-            />
+    <img
+  src={icon}
+  alt="icon"
+  width={60}
+  height={60}
+
+/>
           </div>
         ))}
       </div>
