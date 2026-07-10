@@ -1,6 +1,8 @@
 import { IconContext } from 'react-icons'
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillTwitterCircle } from 'react-icons/ai'
 import SkillsStrip from './anistrip'
+import resume from '../Nirmal_Resume.pdf'
+
 export default function Hero() {
   return (
     <section className="pt-10 pb-16 font-mono">
@@ -48,12 +50,13 @@ export default function Hero() {
 
       <div className="mt-6 flex justify-center">
         <a
-          href="/Resume.pdf"
+          href={resume}
           target="_blank"
           rel="noreferrer"
-          className="inline-flex items-center justify-center rounded-full border border-pink-500/60 px-6 py-2 text-sm text-pink-400 hover:bg-emerald-700/10 transition-colors"
+          className="inline-flex items-center justify-center rounded-full border border-pink-500/60 px-6 py-2 text-sm text-pink-400 hover:bg-emerald-700/10 transition-colors" download ="Nirmal_Resume.pdf"
         >
-          $ Download Resume
+        <button type="button">$ Download Resume</button>
+       
         </a>
       </div>
     </section>

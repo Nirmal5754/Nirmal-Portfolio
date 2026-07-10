@@ -79,7 +79,7 @@ export default function ProjectsTerminal() {
   <div   className='bg-violet-900 text-emerald-400 rounded-full px-2 py-1 font-bold'>Bootstrap</div>
 <div   className='bg-violet-900 rounded-full px-2 text-emerald-400 py-1 font-bold'>JavaScript</div>
   <div   className='bg-violet-900 rounded-full px-2 text-emerald-400 py-1 font-bold'>Firebase</div></li>
-
+<li className='w-25  mt-2' >  <div   className='bg-violet-900 text-emerald-400 rounded-full px-5 py-1 font-bold'>Redux Toolkit</div></li>
     </ul>
   
 
@@ -92,11 +92,11 @@ export default function ProjectsTerminal() {
 
     <ul className='text-center items-center justify-center m-4'>
 <li className='flex gap-3'><div   className='bg-violet-900 rounded-full px-2 py-1 text-emerald-400 font-extrabold'>React.js</div>
-  <div  className='text-emerald-400 bg-violet-900 rounded-full px-2 py-1 font-bold'>Redux.js</div><div  className='font-bold bg-violet-900 text-emerald-400 rounded-full px-2 py-1'>Tailwind CSS</div>
+ <div  className='font-bold bg-violet-900 text-emerald-400 rounded-full px-2 py-1'>Tailwind CSS</div>  <div   className='bg-violet-900 text-emerald-400 rounded-full px-2 py-1 font-bold'>HTML</div>
   </li>
 <li className='flex gap-3  mt-3'> 
   <div   className='bg-violet-900 text-emerald-400 rounded-full px-2 py-1 font-bold '>Firebase</div>
-<div   className='bg-violet-900 rounded-full px-2 text-emerald-400 py-1 font-bold'>Tailwind Css</div>
+<div   className='bg-violet-900 rounded-full px-2 text-emerald-400 py-1 font-bold'>Redux toolkit</div>
   <div   className='bg-violet-900 rounded-full px-2 text-emerald-400 py-1 font-bold'>JavaScript</div></li>
 
     </ul>
